@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed Mohamed
 
-<!--
-**ahmedmohamedabdelhadi/ahmedmohamedabdelhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fresh Graduate AI Engineer  
+🏫 Faculty of Computer & Information Science – Ain Shams University  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I am a passionate AI engineer interested in machine learning, data analysis, and deep learning.  
+I enjoy working on real-world datasets, building predictive models, and turning data into insights.
+
+---
+
+## 💼 Skills
+- Machine Learning
+- Deep Learning
+- Data Analysis
+- Python
+- SQL
+- Pandas, NumPy
+- Scikit-learn, TensorFlow, PyTorch
+- XGBoost, CatBoost
+
+---
+
+## 🚀 Featured Projects
+- **Air Quality Analysis and Prediction**  
+  Machine learning models to analyze pollution data and predict air quality  
+  🔗 GitHub: https://github.com/ahmedmohamedabdelhadi/air-quality-analysis-prediction  
+  🔗 Kaggle: https://github.com/ahmedmohamedabdelhadi
+
+---
+
+## 📊 Platforms
+- Kaggle: https://www.kaggle.com/ahmedmohamed22
+- GitHub: https://github.com/ahmedmohamedabdelhadi
+
+---
+
+## 📫 Contact
+- Email: ahmed.mohamed.abdelhady.01@gmail.com
+- LinkedIn:https://www.linkedin.com/in/ahmed-mohamed-abdelhady/)](https://www.linkedin.com/in/ahmed-mohamed-abdelhady/
