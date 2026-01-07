@@ -4,15 +4,6 @@
 🏫 Faculty of Computer & Information Science – Ain Shams University  
 
 ---
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmohamedabdelhadi&show_icons=true&hide_title=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmohamedabdelhadi&layout=compact" />
-</p>
 
 ## 🧠 About Me
 I am a passionate AI engineer interested in machine learning, data analysis, and deep learning.  
