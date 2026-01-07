@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahmed Mohamed
+# 👋 Hi, I'm Ahmed Mohamed Abdelhady 
 
 🎓 Fresh Graduate AI Engineer  
 🏫 Faculty of Computer & Information Science – Ain Shams University  
@@ -11,24 +11,49 @@ I enjoy working on real-world datasets, building predictive models, and turning 
 
 ---
 
-## 💼 Skills
-- Machine Learning
-- Deep Learning
-- Data Analysis
+## 🧠 Technical Skills
+
+### 🔹 Programming & Tools
 - Python
+- c# | c++
 - SQL
+- Git & GitHub
+
+### 🔹 Data Analysis
 - Pandas, NumPy
-- Scikit-learn, TensorFlow, PyTorch
-- XGBoost, CatBoost
+- Matplotlib, Seaborn
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Feature Engineering
+
+### 🔹 Machine Learning
+- Supervised & Unsupervised Learning
+- Regression & Classification
+- Model Evaluation & Validation
+- Scikit-learn
+
+### 🔹 Advanced ML
+- XGBoost
+- CatBoost
+- TensorFlow
+- PyTorch
+
+---
 
 ---
 
 ## 🚀 Featured Projects
-- **Air Quality Analysis and Prediction**  
-  Machine learning models to analyze pollution data and predict air quality  
-  🔗 GitHub: https://github.com/ahmedmohamedabdelhadi/air-quality-analysis-prediction  
-  🔗 Kaggle: https://github.com/ahmedmohamedabdelhadi
+### 🌍 Air Quality Analysis and Prediction
+- Built machine learning models to analyze air pollution data and predict air quality
+- Applied EDA, feature analysis, and regression models
+- Compared boosting models (XGBoost, CatBoost) for performance
 
+🔗 GitHub:  
+https://github.com/ahmedmohamedabdelhadi/air-quality-analysis-prediction  
+
+🔗 Kaggle Notebook:  
+https://www.kaggle.com/your_kaggle_username/air-quality-analysis-and-prediction  
+
+---
 ---
 
 ## 📊 Platforms
@@ -39,4 +64,7 @@ I enjoy working on real-world datasets, building predictive models, and turning 
 
 ## 📫 Contact
 - Email: ahmed.mohamed.abdelhady.01@gmail.com
-- LinkedIn:https://www.linkedin.com/in/ahmed-mohamed-abdelhady/)](https://www.linkedin.com/in/ahmed-mohamed-abdelhady/
+- LinkedIn:[https://www.linkedin.com/in/ahmed-mohamed-abdelhady/)](https://www.linkedin.com/in/ahmed-mohamed-abdelhady/](https://www.linkedin.com/in/ahmed-mohamed-abdelhady/)
+
+---
+⭐ *I am actively learning, building projects, and looking for opportunities to grow as an AI / Machine Learning Engineer.*
