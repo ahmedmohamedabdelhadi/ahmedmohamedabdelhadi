@@ -39,14 +39,6 @@ I enjoy working on real-world datasets, building predictive models, and turning 
 
 ---
 
----
-
-## 🚀 Featured Projects
-### 🌍 Air Quality Analysis and Prediction
-- Built machine learning models to analyze air pollution data and predict air quality
-- Applied EDA, feature analysis, and regression models
-- Compared boosting models (XGBoost, CatBoost) for performance
-
 🔗 GitHub:  
 https://github.com/ahmedmohamedabdelhadi/air-quality-analysis-prediction  
 
