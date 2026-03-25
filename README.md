@@ -39,15 +39,6 @@ I enjoy working on real-world datasets, building predictive models, and turning 
 
 ---
 
-🔗 GitHub:  
-https://github.com/ahmedmohamedabdelhadi/air-quality-analysis-prediction  
-
-🔗 Kaggle Notebook:  
-https://www.kaggle.com/your_kaggle_username/air-quality-analysis-and-prediction  
-
----
----
-
 ## 📊 Platforms
 - Kaggle: https://www.kaggle.com/ahmedmohamed22
 - GitHub: https://github.com/ahmedmohamedabdelhadi
